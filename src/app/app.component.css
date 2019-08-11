@@ -1,0 +1,14 @@
+.image{
+    height:40em; 
+    width:auto;
+    background-image:url('/assets/images/image1.jpg');
+    background-position:50% 50%;
+    background-repeat: no-repeat, repeat;
+  }
+  html,
+  body   {
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+    font-size: 16px;
+  }
